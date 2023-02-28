@@ -1,0 +1,17 @@
+body{
+    font-family: "Rampart One";
+    font-size: 100%;
+}
+
+h1{
+    font-size: 40px;
+    color: red
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 3em;
+}
